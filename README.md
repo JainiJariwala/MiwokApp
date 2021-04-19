@@ -1,2 +1,2 @@
 # MiwokApp
-This is a translation app which is made by me with the help of some course and online resource.This app basically give the miwok phrases of some english words.it also speak the translation of that word with mediaplayer and audio focus.
+This app is basically the multiscreen app.It gives the idea about implimentation of intent and provide the knowledge of how to use fragments.it is a good example of how to use audio foucs and adapter in android.
